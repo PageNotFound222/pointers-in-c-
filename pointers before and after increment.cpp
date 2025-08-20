@@ -14,7 +14,7 @@ int main(){
     cout<<"Float Address Before increment: "<<y1<<endl;
     y1+=1;
     cout<<"Float After increment: "<<y1<<endl;
-    double z=;
+    double z=678910890;
     double*z1;
     z1=&z;
     cout<<"Double Address Before increment: "<<z1<<endl;
